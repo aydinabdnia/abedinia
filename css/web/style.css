@@ -1,0 +1,26 @@
+header{
+    min-height: 50px;
+    background: #f2f2f2;
+    border-bottom: 3px solid #828282;
+    text-align: center;
+    line-height: 50px;
+    color: #204d74;
+    font-family: arial;
+    font-weight:600;
+}
+body > .container{
+    line-height: 25px;
+    text-align: right;
+    direction: rtl;
+    font-family: tahoma;
+}
+footer{
+    min-height: 50px;
+    background: #444;
+    border-bottom: 3px solid #828282;
+    text-align: center;
+    line-height: 50px;
+    color: #204d74;
+    font-family: arial;
+    font-weight:600;
+}
